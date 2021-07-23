@@ -1,7 +1,7 @@
-H1 {color: rgb(55, 247, 17); text-align: center;} 
-H2 {color: rgb(3, 3, 238); text-align: center;};
-H3 {color: rgba(255, 0, 221, 0.952); text-align: center; padding: 30px;} 
-H4 {color: green; text-align: left;}  
+h1 {color: rgb(55, 247, 17); text-align: center;} 
+h2 {color: rgb(3, 3, 238); text-align: center;}
+h3 {color: rgba(255, 0, 221, 0.952); text-align: center; padding: 30px;} 
+h4 {color: green; text-align: left;}  
 
 table   {
         border: 1px solid black;
